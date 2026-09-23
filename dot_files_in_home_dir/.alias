@@ -1,0 +1,12 @@
+alias ll=clear
+alias nv=nvim
+alias ggl=lfcd
+alias gga=alias
+alias ggh="cd ~/"
+alias ggd="cd /mnt/c/Users/manish/Desktop/"
+#alias ggcc="source /home/mp24/sh_scrpits/py_calcpy.sh"
+alias ggcc="calcpy"
+alias ggc="bash /home/mp_ub/cheatsheet/cheat_sheet.sh"
+alias gx="explorer.exe ."
+alias xx=exit
+alias bat='batcat'
