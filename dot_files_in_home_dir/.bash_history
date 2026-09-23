@@ -721,3 +721,16 @@ zi
 git clone git@github.com:manish516/mac_dot_files_and_config_dir.git
 ex
 y
+git log --oneline --graph --decorate --all
+y
+git fetch origin
+y
+git log --oneline --graph --decorate --all
+cat symlink_cmds.txt 
+git pull origin main
+git log --oneline --graph --decorate --all
+cat symlink_cmds.txt 
+y
+git status
+git log --oneline --graph --decorate --all
+git status

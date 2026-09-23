@@ -5,6 +5,7 @@ ln -s ~/dot_files_ubuntu/dot_config/nvim ~/.config/nvim
 ln -s ~/dot_files_ubuntu/dot_config/yazi ~/.config/yazi
 ln -s ~/dot_files_ubuntu/dot_files_in_home_dir/.alias ~/.alias
 ln -s ~/dot_files_ubuntu/dot_files_in_home_dir/.bashrc ~/.bashrc
+ln -s ~/dot_files_ubuntu/dot_files_in_home_dir/.bash_history ~/.bash_history
 ln -s ~/dot_files_ubuntu/dot_files_in_home_dir/.fzf.bash ~/.fzf.bash
 ln -s ~/dot_files_ubuntu/dot_files_in_home_dir/.gdbinit ~/.gdbinit
 ln -s ~/dot_files_ubuntu/dot_files_in_home_dir/.tmux.conf ~/.tmux.conf
