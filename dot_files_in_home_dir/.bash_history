@@ -734,3 +734,32 @@ y
 git status
 git log --oneline --graph --decorate --all
 git status
+git add -u
+git status
+git commit -m "chg"
+git push origin main
+y
+git log --oneline --graph --decorate --all
+git status
+y
+xx
+xx
+xx
+htop
+nv config.toml 
+xx
+xx
+ls
+y
+y
+ls
+y
+cat symlink_cmds.txt 
+ln -s /home/mp_ub/dot_files_ubuntu/dot_config/herdr/config.toml /home/mp_ub/.config/herdr
+y
+herdr
+y
+git status
+nv symlink_cmds.txt 
+git status
+y
